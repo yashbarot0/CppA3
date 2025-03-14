@@ -1,3 +1,5 @@
+#include <vector>
+#include "instruments.h"
 #ifndef STATS_H_5IWZAED1
 #define STATS_H_5IWZAED1
 
